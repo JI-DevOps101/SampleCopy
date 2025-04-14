@@ -7,3 +7,4 @@ The practice would involve trying out the following:
   - committing changes as i go along
   - preview the readme 
   - exploring deleting the whole repository when am done
+![Image](https://github.com/user-attachments/assets/8b92d604-ecd4-4da6-8277-f570d79c59ad)
